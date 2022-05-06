@@ -5,7 +5,7 @@ M2MO - Advanced Probabilistic Numerical Methods in Finance - Numerical project f
 
 * [TensorFlow >=2.0](https://www.tensorflow.org/)
 
-## Reference
+## References
 [1] Han, J., Jentzen, A., and E, W. Overcoming the curse of dimensionality: Solving high-dimensional partial differential equations using deep learning,
 <em>Proceedings of the National Academy of Sciences</em>, 115(34), 8505-8510 (2018). [[journal]](https://doi.org/10.1073/pnas.1718942115) [[arXiv]](https://arxiv.org/abs/1707.02568) <br />
 [2] E, W., Han, J., and Jentzen, A. Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations,
